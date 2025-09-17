@@ -167,6 +167,83 @@
         "mobile_bottom_padding": 0
       }
     },
+    "featured_collections_rFQHjW": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_nqQ8UY": {
+          "type": "collection",
+          "settings": {
+            "collection": "frontpage",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_nqQ8UY"
+      ],
+      "name": "Featured collections",
+      "settings": {
+        "subheading": "",
+        "title": "Top Picks",
+        "content": "",
+        "products_count": 5,
+        "products_per_row": 5,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": false,
+        "desktop_top_padding": 0,
+        "desktop_bottom_padding": 0,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    },
+    "slideshow_tMf9hF": {
+      "type": "slideshow",
+      "blocks": {
+        "image_j6xiVJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/imgi_157_WOMEN_250719_LV_S11_063_C_LVCOM_2048x1152_DI3.jpg",
+            "mobile_image": "shopify://shop_images/imgi_166_WOMEN_250719_LV_S11_063_C_LVCOM_1600x2000_DII.jpg",
+            "text_position": "bottom_center",
+            "mobile_text_position": "inherit",
+            "subheading": "",
+            "title": "GRACE CODDINGTON",
+            "content": "",
+            "button_1_text": "Shop Now",
+            "button_1_link": "shopify://collections/all",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_j6xiVJ"
+      ],
+      "settings": {
+        "autoplay": true,
+        "cycle_speed": 5,
+        "section_height": "large",
+        "background_type": "full_width",
+        "transition_type": "sweep",
+        "background": "rgba(0,0,0,0)",
+        "desktop_top_padding": 0,
+        "desktop_bottom_padding": 0,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
+    },
     "featured_collections_fNHqYJ": {
       "type": "featured-collections",
       "blocks": {
@@ -186,7 +263,7 @@
       "name": "Featured collections",
       "settings": {
         "subheading": "",
-        "title": "Top Picks",
+        "title": "Autumn Picks",
         "content": "",
         "products_count": 5,
         "products_per_row": 5,
@@ -208,6 +285,8 @@
     "slideshow",
     "collection_list_4xFM4A",
     "video_Hq8nGB",
+    "featured_collections_rFQHjW",
+    "slideshow_tMf9hF",
     "featured_collections_fNHqYJ"
   ]
 }
