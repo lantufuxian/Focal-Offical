@@ -60,6 +60,7 @@
         "links_fbBg3T",
         "contact"
       ],
+      "custom_css": [],
       "settings": {
         "show_payment_icons": true,
         "show_powered_by_shopify": true,
