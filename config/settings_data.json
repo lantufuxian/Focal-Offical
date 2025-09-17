@@ -1,8 +1,21 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
-    "social_tiktok": "https:\/\/v.douyin.com\/iCQUA7V\/",
-    "social_twitter": "https:\/\/twitter.com\/zalifyapp",
-    "social_youtube": "https:\/\/www.youtube.com\/@zalify3959"
+    "heading_font": "dm_serif_text_n4",
+    "text_font": "barlow_n5",
+    "text_font_size": 18,
+    "social_twitter": "https://twitter.com/zalifyapp",
+    "social_youtube": "https://www.youtube.com/@zalify3959",
+    "social_tiktok": "https://v.douyin.com/iCQUA7V/",
+    "content_for_index": []
   },
   "presets": {
     "Default": {
@@ -61,9 +74,9 @@
       "cart_icon": "shopping_cart",
       "cart_show_free_shipping_threshold": true,
       "cart_free_shipping_threshold": "50",
-      "social_tiktok": "https:\/\/v.douyin.com\/iCQUA7V\/",
-      "social_twitter": "https:\/\/twitter.com\/zalifyapp",
-      "social_youtube": "https:\/\/www.youtube.com\/@zalify3959",
+      "social_tiktok": "https://v.douyin.com/iCQUA7V/",
+      "social_twitter": "https://twitter.com/zalifyapp",
+      "social_youtube": "https://www.youtube.com/@zalify3959",
       "block_cn_hk_ips": false,
       "block_cn_lang_browsers": false,
       "block_right_click": false
