@@ -46,7 +46,7 @@
         "cart_badge_text_color": "rgba(0,0,0,0)",
         "logo": "shopify://shop_images/5a29732a597e0496f220a7437dccb682-removebg-preview.png",
         "logo_max_width": 120,
-        "mobile_logo_max_width": 100,
+        "mobile_logo_max_width": 30,
         "navigation_menu": "main-menu",
         "sidebar_navigation_menu": "",
         "header_layout": "logo_left_navigation_inline",
