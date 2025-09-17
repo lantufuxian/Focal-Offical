@@ -49,9 +49,127 @@
         "mobile_top_padding": 0,
         "mobile_bottom_padding": 0
       }
+    },
+    "collection_list_4xFM4A": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_twf7LP": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "text_position": "middle",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 85
+          }
+        },
+        "collection_jw9Tyg": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "text_position": "middle",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 85
+          }
+        },
+        "collection_NLGBBF": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "text_position": "middle",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 85
+          }
+        },
+        "collection_FyPpew": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "text_position": "middle",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 85
+          }
+        },
+        "collection_cLMWez": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "text_position": "middle",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 85
+          }
+        },
+        "collection_7QCgnK": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "text_position": "middle",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 85
+          }
+        }
+      },
+      "block_order": [
+        "collection_twf7LP",
+        "collection_jw9Tyg",
+        "collection_NLGBBF",
+        "collection_FyPpew",
+        "collection_cLMWez",
+        "collection_7QCgnK"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "layout": "grid",
+        "subheading": "Subheading",
+        "title": "Collection list",
+        "products_per_row": "4",
+        "desktop_row_gap": 12,
+        "desktop_heading_tag": "h3",
+        "mobile_products_per_row": "2",
+        "mobile_row_gap": 12,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "ignore_vertical_spacing": false,
+        "desktop_top_padding": 0,
+        "desktop_bottom_padding": 0,
+        "mobile_top_padding": 0,
+        "mobile_bottom_padding": 0
+      }
     }
   },
   "order": [
-    "slideshow"
+    "slideshow",
+    "collection_list_4xFM4A"
   ]
 }
