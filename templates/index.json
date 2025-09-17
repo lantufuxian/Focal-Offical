@@ -56,7 +56,8 @@
         "collection_7QCgnK": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "frontpage",
+            "image": "shopify://shop_images/imgi_99_Women_Accessories_Jewelry_2_WW_HP_Category_Push_DII.jpg",
             "text_position": "middle",
             "subheading": "",
             "title": "",
@@ -64,49 +65,52 @@
             "link_url": "",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
-            "overlay_opacity": 85
+            "overlay_opacity": 0
           }
         },
         "collection_WE8kzL": {
           "type": "collection",
           "settings": {
-            "collection": "",
-            "text_position": "middle",
+            "collection": "collection-2",
+            "image": "shopify://shop_images/imgi_92_Women_Handbags_2_WW_HP_Category_Push_DII.jpg",
+            "text_position": "bottom",
             "subheading": "",
             "title": "",
             "link_text": "",
             "link_url": "",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
-            "overlay_opacity": 85
+            "overlay_opacity": 0
           }
         },
         "collection_9UnNEE": {
           "type": "collection",
           "settings": {
-            "collection": "",
-            "text_position": "middle",
+            "collection": "collection-3",
+            "image": "shopify://shop_images/imgi_149_Perfumes_2_WW_HP_Category_Push_DII.jpg",
+            "text_position": "bottom",
             "subheading": "",
             "title": "",
             "link_text": "",
             "link_url": "",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
-            "overlay_opacity": 85
+            "overlay_opacity": 0
           }
         },
         "collection_rt9FbH": {
           "type": "collection",
           "settings": {
-            "collection": "",
-            "text_position": "middle",
+            "collection": "collection-4",
+            "image": "shopify://shop_images/imgi_117_Beauty_Lips_WW_HP_Category_Push_DII.jpg",
+            "text_position": "bottom",
             "subheading": "",
             "title": "",
             "link_text": "",
             "link_url": "",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
-            "overlay_opacity": 85
+            "overlay_opacity": 0
           }
         }
       },
@@ -122,7 +126,7 @@
         "background_type": "boxed",
         "layout": "grid",
         "subheading": "",
-        "title": "Collection list",
+        "title": "Popular Collections",
         "products_per_row": "4",
         "desktop_row_gap": 12,
         "desktop_heading_tag": "h3",
