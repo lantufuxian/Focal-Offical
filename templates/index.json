@@ -60,7 +60,7 @@
             "image": "shopify://shop_images/imgi_99_Women_Accessories_Jewelry_2_WW_HP_Category_Push_DII.jpg",
             "text_position": "bottom",
             "subheading": "",
-            "title": "Collection 1",
+            "title": "Jewelry",
             "link_text": "",
             "link_url": "",
             "text_color": "rgba(0,0,0,0)",
@@ -75,22 +75,7 @@
             "image": "shopify://shop_images/imgi_92_Women_Handbags_2_WW_HP_Category_Push_DII.jpg",
             "text_position": "bottom",
             "subheading": "",
-            "title": "Collection 2",
-            "link_text": "",
-            "link_url": "",
-            "text_color": "rgba(0,0,0,0)",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "collection_9UnNEE": {
-          "type": "collection",
-          "settings": {
-            "collection": "collection-3",
-            "image": "shopify://shop_images/imgi_149_Perfumes_2_WW_HP_Category_Push_DII.jpg",
-            "text_position": "bottom",
-            "subheading": "",
-            "title": "Collection 3",
+            "title": "Fashion Handbags",
             "link_text": "",
             "link_url": "",
             "text_color": "rgba(0,0,0,0)",
@@ -101,11 +86,26 @@
         "collection_rt9FbH": {
           "type": "collection",
           "settings": {
-            "collection": "collection-4",
+            "collection": "collection-3",
             "image": "shopify://shop_images/imgi_117_Beauty_Lips_WW_HP_Category_Push_DII.jpg",
             "text_position": "bottom",
             "subheading": "",
-            "title": "Collection 4",
+            "title": "Latest Beauty Picks",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "collection_9UnNEE": {
+          "type": "collection",
+          "settings": {
+            "collection": "collection-4",
+            "image": "shopify://shop_images/imgi_149_Perfumes_2_WW_HP_Category_Push_DII.jpg",
+            "text_position": "bottom",
+            "subheading": "",
+            "title": "Perfume Collection",
             "link_text": "",
             "link_url": "",
             "text_color": "rgba(0,0,0,0)",
@@ -117,8 +117,8 @@
       "block_order": [
         "collection_7QCgnK",
         "collection_WE8kzL",
-        "collection_9UnNEE",
-        "collection_rt9FbH"
+        "collection_rt9FbH",
+        "collection_9UnNEE"
       ],
       "name": "Collection list",
       "settings": {
