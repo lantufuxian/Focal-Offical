@@ -10,6 +10,9 @@
 {
   "current": {
     "heading_font": "dm_serif_text_n4",
+    "h1_font_size": 52,
+    "h2_font_size": 40,
+    "h3_font_size": 28,
     "text_font": "barlow_n5",
     "text_font_size": 18,
     "product_title_truncation": "2",

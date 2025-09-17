@@ -32,11 +32,14 @@
             "collapse_content_on_mobile": false
           }
         },
-        "text": {
-          "type": "text",
+        "links_fbBg3T": {
+          "type": "links",
           "settings": {
-            "title": "About our theme",
-            "content": "<p><a href=\"https://www.zalify.com/theme\" target=\"_blank\" title=\"https://www.zalify.com/theme\">Zalify Theme</a> is a next-generation theme template designed specifically for Shopify, with a more exquisite design and better performance.</p>"
+            "menu": "link-list",
+            "mobile_width": "half_width",
+            "show_menu_title": true,
+            "menu_title": "",
+            "collapse_content_on_mobile": false
           }
         },
         "contact": {
@@ -54,7 +57,7 @@
       "block_order": [
         "newsletter",
         "links",
-        "text",
+        "links_fbBg3T",
         "contact"
       ],
       "settings": {
