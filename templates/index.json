@@ -12,32 +12,15 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "slide-1": {
+        "image_ep9aEK": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/imgi_76_Women_Travel_With_Grace_Coddington_HP_push_1209_DI3.jpg",
+            "mobile_image": "shopify://shop_images/imgi_85_Women_Travel_Grace_Coddington_HP_push_1209_DII.jpg",
             "text_position": "middle_center",
             "mobile_text_position": "inherit",
-            "subheading": "Subheading",
-            "title": "Slide 1",
-            "content": "",
-            "button_1_text": "Start Exploring",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 85
-          }
-        },
-        "slide-2": {
-          "type": "image",
-          "settings": {
-            "text_position": "middle_center",
-            "mobile_text_position": "inherit",
-            "subheading": "Subheading",
-            "title": "Slide 2",
+            "subheading": "Tell your story",
+            "title": "Slide title",
             "content": "",
             "button_1_text": "",
             "button_1_link": "",
@@ -47,38 +30,17 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 85
-          }
-        },
-        "slide-3": {
-          "type": "image",
-          "settings": {
-            "text_position": "middle_center",
-            "mobile_text_position": "inherit",
-            "subheading": "Subheading",
-            "title": "Slide 3",
-            "content": "",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 85
+            "overlay_opacity": 0
           }
         }
       },
       "block_order": [
-        "slide-1",
-        "slide-2",
-        "slide-3"
+        "image_ep9aEK"
       ],
       "settings": {
         "autoplay": true,
         "cycle_speed": 5,
-        "section_height": "small",
+        "section_height": "large",
         "background_type": "full_width",
         "transition_type": "sweep",
         "background": "rgba(0,0,0,0)",

@@ -44,7 +44,7 @@
         "position": "sticky",
         "cart_badge_background": "rgba(0,0,0,0)",
         "cart_badge_text_color": "rgba(0,0,0,0)",
-        "logo": "{{shop.brand.logo}}",
+        "logo": "shopify://shop_images/5a29732a597e0496f220a7437dccb682-removebg-preview.png",
         "logo_max_width": 120,
         "mobile_logo_max_width": 100,
         "navigation_menu": "main-menu",
