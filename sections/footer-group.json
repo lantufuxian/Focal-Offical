@@ -22,20 +22,20 @@
             "show_social_media": true
           }
         },
-        "links": {
+        "links_fbBg3T": {
           "type": "links",
           "settings": {
-            "menu": "footer",
+            "menu": "link-list",
             "mobile_width": "half_width",
             "show_menu_title": true,
             "menu_title": "",
             "collapse_content_on_mobile": false
           }
         },
-        "links_fbBg3T": {
+        "links": {
           "type": "links",
           "settings": {
-            "menu": "link-list",
+            "menu": "footer",
             "mobile_width": "half_width",
             "show_menu_title": true,
             "menu_title": "",
@@ -56,8 +56,8 @@
       },
       "block_order": [
         "newsletter",
-        "links",
         "links_fbBg3T",
+        "links",
         "contact"
       ],
       "custom_css": [],
