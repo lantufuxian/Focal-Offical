@@ -37,6 +37,7 @@
       "block_order": [
         "image_ep9aEK"
       ],
+      "disabled": true,
       "settings": {
         "autoplay": true,
         "cycle_speed": 5,
@@ -120,6 +121,7 @@
         "collection_rt9FbH",
         "collection_9UnNEE"
       ],
+      "disabled": true,
       "name": "Collection list",
       "settings": {
         "reveal_on_scroll": true,
@@ -143,6 +145,7 @@
     },
     "video_Hq8nGB": {
       "type": "video",
+      "disabled": true,
       "name": "Video",
       "settings": {
         "video_file": "shopify://files/videos/G39S5hQmHFTF5Tu5nDmMF0ad_11.mp4",
@@ -231,6 +234,7 @@
       "block_order": [
         "image_j6xiVJ"
       ],
+      "disabled": true,
       "settings": {
         "autoplay": true,
         "cycle_speed": 5,
