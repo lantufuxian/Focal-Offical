@@ -191,7 +191,7 @@
         "subheading": "",
         "title": "Top Picks",
         "content": "",
-        "products_count": 5,
+        "products_count": 50,
         "products_per_row": 5,
         "stack_products": true,
         "show_cta": false,
@@ -264,6 +264,7 @@
       "block_order": [
         "collection_NUNmiF"
       ],
+      "disabled": true,
       "name": "Featured collections",
       "settings": {
         "subheading": "",
